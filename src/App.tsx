@@ -5,7 +5,6 @@ import './index.css'; // Ensure global styles are loaded
 import heroBgImage from './assets/image_0.png';
 import exit4Sign from './assets/Group 1721.png';
 import headerImage from './assets/unnamed.png';
-import '@fortawesome/fontawesome-free/css/all.min.css';
 
 function App() {
   // TypeScript State for form submission
